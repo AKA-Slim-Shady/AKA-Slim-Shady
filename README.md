@@ -1,5 +1,15 @@
 # 💫 About Me:
-Hey! 👋 I'm Surya, a Computer Science and Engineering student who loves turning complex technical challenges into scalable, elegant solutions.<br><br>I am deeply passionate about backend development and system design, whether that means architecting high-level cloud infrastructure or getting into the weeds of low-level embedded hardware. I recently earned my Google Cloud Associate Cloud Engineer certification ☁️, and I actively leverage GCP tools like Cloud Run to build robust, event-driven backends for projects like interactive 2D educational environments.<br><br>My technical toolkit is diverse and adaptable. On the backend, I frequently build and optimize APIs using Go, Node.js/Nest.js, and PostgreSQL. When I'm working closer to the metal, you'll find me writing C++ for ESP32 microcontrollers, tinkering with IoT network protocols like MQTT and Zigbee, or managing real-time hardware tasks with FreeRTOS. I also enjoy bridging the gap to the frontend, utilizing frameworks like React and SvelteKit to build seamless, full-stack applications 💻.<br><br>I am naturally curious and constantly exploring the bleeding edge of computer science. From implementing advanced search algorithms and training machine learning models, to experimenting with quantum computing circuits and leveling up my cybersecurity foundations, I love staying ahead of the curve. For me, software engineering is a constantly evolving puzzle, and I'm always ready for the next piece! 🚀
+Hey! 👋 I'm Surya, a Computer Science student at Shiv Nadar University turning complex technical challenges into scalable, elegant solutions.
+
+Here is a quick snapshot of my technical focus:
+
+* ☁️ **Cloud Architecture & System Design:** Google Cloud Certified Associate Cloud Engineer focused on designing robust event-driven backends and distributed architectures.
+* ⚙️ **Backend Engineering:** Building high-performance APIs and scalable services using Go, Node.js, Nest.js, Bun, and PostgreSQL.
+* 🔌 **Low-Level & IoT:** Bridging software and hardware with C++ on ESP32 microcontrollers, FreeRTOS, and IoT protocols like MQTT and Zigbee.
+* 💻 **Frontend Development:** Crafting seamless, responsive user interfaces using modern frameworks like SvelteKit and React.
+* 🚀 **Emerging Technologies:** Constantly exploring the bleeding edge of computer science, from AI/ML and cybersecurity to quantum computing and advanced algorithms.
+
+Would you like me to structure this specifically for your GitHub README, or format it so you can drop it directly into your resume?
 
 
 ## 🌐 Socials:
